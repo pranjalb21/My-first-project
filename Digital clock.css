@@ -1,0 +1,16 @@
+body{
+    background-color: #34495e;
+}
+#box{
+    left: 40%;
+    top: 40%;
+    position: relative;
+    color: #1abc9c;
+    font-size: 50px;
+}
+#box:hover{
+    left: 31%;
+    top:36%;
+    position: relative;
+    font-size: 100px;
+}
