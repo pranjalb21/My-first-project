@@ -5,7 +5,7 @@ body{
     left: 40%;
     top: 40%;
     position: relative;
-    color: #1abc9c;
+    color: #3255f1;
     font-size: 50px;
 }
 #box:hover{
@@ -13,4 +13,5 @@ body{
     top:36%;
     position: relative;
     font-size: 100px;
+    color: #e94715;
 }
